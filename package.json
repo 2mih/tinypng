@@ -1,0 +1,25 @@
+{
+  "name": "tinypng-qiniu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2mih/tinypng.git"
+  },
+  "keywords": [
+    "tinypng",
+    "qiniu",
+    "node",
+    "compress"
+  ],
+  "author": "YidaZh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2mih/tinypng/issues"
+  },
+  "homepage": "https://github.com/2mih/tinypng#readme"
+}
